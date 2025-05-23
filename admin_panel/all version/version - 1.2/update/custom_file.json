@@ -1,0 +1,12 @@
+{
+    "custom": [{
+            "filename": "composer.json",
+            "path": "root"
+        },
+        {
+            "filename": "composer.lock",
+            "path": "root"
+        }
+    ],
+    "version": "1.2"
+}
